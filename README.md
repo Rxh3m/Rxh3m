@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rxh3m
+- I’m @Rxh3m
 - cybersecurity
 - blue team
 - python
