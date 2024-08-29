@@ -3,7 +3,6 @@
 - blue team
 - python
 - linux
-- ursrouf4@gmail.com
 - cloud security enthusiastic 
 - soc teamer
 - SIEM
