@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rxh3m
 - cybersecurity
-- blue 
-- pythontam
+- blue team
+- python
 - linux
 - ursrouf4@gmail.com
 - cloud security enthusiastic 
