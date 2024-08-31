@@ -4,7 +4,7 @@
 - python
 - linux
 - cloud security enthusiastic 
-- soc teamer
+- soc operations
 - SIEM
 <!---
 Rxh3m/Rxh3m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
